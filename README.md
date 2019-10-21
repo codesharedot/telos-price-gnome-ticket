@@ -1,5 +1,5 @@
-# general-attention-currency price gnome ticket 
+# telos price gnome ticket 
 
-Gnome 3 desktop ticker for general-attention-currency price with Python and argos. Rename to general-attention-currency.1r.60s.py and put in ~/.config/argos
+Gnome 3 desktop ticker for telos price with Python and argos. Rename to telos.1r.60s.py and put in ~/.config/argos
 
 https://pythonbasics.org
